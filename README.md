@@ -1,5 +1,6 @@
 # 🩺 SymptoScan - AI Health Checker
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-Android-blue?style=for-the-badge&logo=kotlin"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-green?style=for-the-badge"/>
@@ -15,7 +16,7 @@
 
 ## ✨ Overview
 
-SymptoScan helps users analyze symptoms using AI and receive possible health insights instantly. The application provides AI-powered conversations, symptom history tracking, risk-level assessment, and a modern user experience built with Jetpack Compose.
+SymptoScan help users analyze symptoms using AI and receive possible health insights instantly. The application provides AI-powered conversations, symptom history tracking, risk-level assessment, and a modern user experience built with Jetpack Compose.
 
 ---
 
